@@ -2,9 +2,9 @@
 
 ![Gamevault 1981](assets/gamevault1981-logo.png)
 
-Gamevault 1981 is my personal unfinished arcade artifact: a small playable collection of retro game experiments, menu systems, cartridge art, and 1981-style visual ideas.
+Gamevault 1981 is my small unfinished retro arcade collection: a handful of Atari 2600-style game experiments, menu systems, cartridge art, and 1981-style visual ideas.
 
-This is a Windows download. It is intentionally small, rough, and artifact-like rather than a finished commercial game.
+This is a Windows download. It is intentionally small and rough rather than a finished commercial game.
 
 [Download the latest Windows build](https://github.com/pwlot/gamevault-1981/releases/latest)<br>
 [My site](https://www.pwlot.com/)
