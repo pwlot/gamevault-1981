@@ -2,7 +2,7 @@
 
 ![Gamevault 1981](assets/gamevault1981-logo.png)
 
-Gamevault 1981 is my small unfinished retro arcade collection game: a handful of Atari 2600-style games presented as a lost anthology.
+Gamevault 1981 is my small unfinished retro arcade collection game: a handful of Atari 2600-style games presented as a lost anthology. I decided to not finish at this time, as it was supposed to include 50-80 games, and use the concept for something else. TBA soon. 
 
 This is a Windows download.
 
