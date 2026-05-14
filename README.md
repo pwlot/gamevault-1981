@@ -2,9 +2,9 @@
 
 ![Gamevault 1981](assets/gamevault1981-logo.png)
 
-Gamevault 1981 is a personal unfinished arcade artifact by Pawel Pachniewski / Pwlot: a small playable collection of retro game experiments, menu systems, cartridge art, and 1981-style visual ideas.
+Gamevault 1981 is my personal unfinished arcade artifact: a small playable collection of retro game experiments, menu systems, cartridge art, and 1981-style visual ideas.
 
-This build is a Windows download. It is intentionally small, rough, and artifact-like rather than a finished commercial game.
+This is a Windows download. It is intentionally small, rough, and artifact-like rather than a finished commercial game.
 
 [Download the latest Windows build](https://github.com/pwlot/gamevault-1981/releases/latest)<br>
 [My site](https://www.pwlot.com/)
@@ -38,7 +38,7 @@ Latest release: [Gamevault 1981 releases](https://github.com/pwlot/gamevault-198
 
 ## Next
 
-Gamevault 1981 is also seed material for a web-based Atari 2600-style game generation and LLM benchmark suite: tiny generated games, automated playability checks, curation, and model leaderboards.
+I also want to use Gamevault 1981 as seed material for a web-based Atari 2600-style game generation and LLM benchmark suite: tiny generated games, automated playability checks, curation, and model leaderboards.
 
 ## Publisher
 
